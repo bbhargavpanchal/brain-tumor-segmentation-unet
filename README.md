@@ -52,6 +52,7 @@ The U-Net model consists of:
 ### ***Bhargavkumar Panchal***
 
 GitHub: @bbhargavpanchal
+
 LinkedIn: https://www.linkedin.com/in/bhargavpanchall/
 
 
