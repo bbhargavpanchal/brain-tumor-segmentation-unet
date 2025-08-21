@@ -46,6 +46,10 @@ The U-Net model consists of:
 - Adam optimizer (lr=0.001)  
 - Early stopping with patience = 3  
 
+
+<img width="1067" height="387" alt="image" src="https://github.com/user-attachments/assets/9b5134b2-93ed-438a-ad05-e69c338fd6cd" />
+
+
 ---
 
 ## **👨‍💻 Author**
