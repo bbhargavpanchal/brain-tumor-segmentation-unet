@@ -47,3 +47,19 @@ The U-Net model consists of:
 - Early stopping with patience = 3  
 
 ---
+
+## **👨‍💻 Author**
+### ***Bhargavkumar Panchal***
+
+GitHub: @bbhargavpanchal
+LinkedIn: https://www.linkedin.com/in/bhargavpanchall/
+
+
+
+
+📞 Support
+
+Email: bhargavpanchal5151@gmail.com
+
+
+⭐ If you find this project useful, please consider giving it a star!
